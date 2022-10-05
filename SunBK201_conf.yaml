@@ -195,7 +195,7 @@ proxy-providers:
 
   AirPort: #「机场」订阅
     type: http
-    url: "https://www.feiw.cc/api/v1/client/subscribe?token=6459be45814063a2450c194dc1e3a1ea&flag=clash" # 放机场订阅链接
+    url: "https://www.feiw.cc/api/v1/client/subscribe?token=c0042471990b4fdee63f8a4d6252f59f&flag=clash" # 放机场订阅链接
     interval: 3600
     path: ./Proxy/List.yaml # 注意此处文件名不可相同
     health-check:
